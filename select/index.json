@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LiSA『紅蓮華』-MUSiC CLiP-（アニメ「鬼滅の刃」竈門炭治郎 立志編 オープニングテーマ）",
+  "base_artist": "LiSA",
+  "createdAt": "2026-03-10T10:34:18.212467Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lisa Listen",
+      "artist": "Lisa Loeb",
+      "has_synced": false,
+      "path": "select/pl_01_Lisa_Listen_Lisa_Loeb.txt"
+    }
+  ]
+}
